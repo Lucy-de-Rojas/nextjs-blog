@@ -10,7 +10,8 @@ let names = [{
 {
     name: 'lucy',
     age: 1
-}]
+},
+{name: "benji"}]
 
 
 
